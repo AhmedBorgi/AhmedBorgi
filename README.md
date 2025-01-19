@@ -9,7 +9,7 @@
 - Come July 2025 **I'll be tossing my cap and stepping into the shoes of a junior Software Engineer. I'm itching to put my book smarts and coding chops to work, teaming up with bright minds to cook up some seriously cool software solutions.**
 
 - <p align="right">
-  <img src="https://camo.githubusercontent.com/f9eed9411e0f4f43bbe546c745bbb40f88293de2af209c01ef9de2c8f855aefb/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d3270744e7a5a6863546479624770356144566c4f4751775933517a64474a77595764764f445a3661475a755a7a46785a6e457761535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966" alt="A cool illustration of software development" width="600" />
+  <img src="https://camo.githubusercontent.com/f9eed9411e0f4f43bbe546c745bbb40f88293de2af209c01ef9de2c8f855aefb/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d3270744e7a5a6863546479624770356144566c4f4751775933517a64474a77595764764f445a3661475a755a7a46785a6e457761535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966" alt="A cool illustration of software development" width="100" />
 </p>
 
 - Fuelled by a deep love for all things tech **I'm always on the lookout for the latest trends and tricks. My mission? To shake up the software world with fresh ideas and killer code, fueled by my studies, internship grind, and endless curiosity.**
