@@ -3,28 +3,14 @@
 </p>
 <h1 align="center">Hi there👋, I'm Ahmed Borgi</h1>
 
-<table>
-  <tr>
-    <td style="vertical-align: top; text-align: left;">
-      <h3>👨🏻‍💻 About Me</h3>
-      <p>
-        - 🔭 I’m currently diving into <strong>my Final Year Project internship at Pura, while also chasing my software engineering degree at the private Engineers School POLYTECHNIQUE sousse.</strong>
-      </p>
-      <p>
-        - Come July 2025 <strong>I'll be tossing my cap and stepping into the shoes of a junior Software Engineer. I'm itching to put my book smarts and coding chops to work, teaming up with bright minds to cook up some seriously cool software solutions.</strong>
-      </p>
-      <p>
-        - Fueled by a deep love for all things tech, <strong>I'm always on the lookout for the latest trends and tricks. My mission? To shake up the software world with fresh ideas and killer code, fueled by my studies, internship grind, and endless curiosity.</strong>
-      </p>
-      <p>
-        - When I'm not glued to my keyboard, <strong>you'll find me in the gym 🏋, conquering new game levels 🎮, or pedaling through picturesque trails 🚴‍♂️ for that much-needed recharge.</strong>
-      </p>
-    </td>
-    <td style="text-align: right;">
-      <img src="https://camo.githubusercontent.com/80eade9903c3624e41311912bcbc5043d58aa846b11cb1d3e9176f68a6f64c11/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966" alt="A cool illustration of software development" width="300" />
-    </td>
-  </tr>
-</table>
+👨🏻‍💻 About me : 
+- 🔭 I’m currently diving into **my Final Year Project internship at Pura, while also chasing my software engineering degree at the private Engineers School POLYTECHNIQUE sousse**
+
+- Come July 2025 **I'll be tossing my cap and stepping into the shoes of a junior Software Engineer. I'm itching to put my book smarts and coding chops to work, teaming up with bright minds to cook up some seriously cool software solutions.**
+
+- Fuelled by a deep love for all things tech **I'm always on the lookout for the latest trends and tricks. My mission? To shake up the software world with fresh ideas and killer code, fueled by my studies, internship grind, and endless curiosity.**
+
+- When I'm not glued to my keyboard **you'll find me on the gym 🏋, conquering new game levels 🎮, or pedaling through picturesque trails 🚴‍♂️ for that much-needed recharge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
